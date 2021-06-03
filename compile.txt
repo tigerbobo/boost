@@ -1,0 +1,4 @@
+1, Developer Command Prompt for VS2015
+2, cd D:\youyb\setup\develop\boost\boost_1_75_0
+3, ./bootstrap.bat
+4, b2 install toolset=msvc-14.0 variant=release link=static --stagedir="./VS2015" --includedir="./VS2015/include"
